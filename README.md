@@ -14,7 +14,7 @@ import {Registrar} from './util.ipc.mjs';
 const registrar = new Registrar('path/to/socket')
 
 
-// processer.mjf
+// processer.mjs
 
 import {Processer} from './util.ipc.mjs';
 
